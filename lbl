@@ -1,9 +1,7 @@
 {
-  success: true,
-  labels: [
-    {
-      filename: '../../info.php',
-      data: 'PD9waHAgcGhwaW5mbygpOyA/Pg=='
-    }
-  ]
+	"success": true,
+	"labels": [{
+		"filename": "../../info.php",
+		"data": "PD9waHAgcGhwaW5mbygpOyA/Pg=="
+	}]
 }
